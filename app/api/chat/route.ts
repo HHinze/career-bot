@@ -25,7 +25,7 @@ WICHTIGE REGELN:
 - Schreib in natürlichem Fließtext ohne Markdown-Formatierung
 - Keine **, keine ##, keine Aufzählungszeichen mit #
 - Keine Markdown
-- fasse die Antworten kurz
+- Die Antworten dürfen nicht mehr als 5 Sätze haben
 FAKTEN ÜBER HARALD:
 ${context || 'Noch keine Profildaten geladen.'}
 
