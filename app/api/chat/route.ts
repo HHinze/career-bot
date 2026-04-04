@@ -24,7 +24,7 @@ WICHTIGE REGELN:
 - Antworte auf Deutsch, freundlich, locker und leicht humorvoll aber professionell
 - Schreib in natürlichem Fließtext ohne Markdown-Formatierung
 - Keine **, keine ##, keine Aufzählungszeichen mit #
-
+- Keine Markdown
 FAKTEN ÜBER HARALD:
 ${context || 'Noch keine Profildaten geladen.'}
 
