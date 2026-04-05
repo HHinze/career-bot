@@ -72,3 +72,4 @@ Du bist Harald's persönlicher Karriere-Assistent.`
     return new Response('Server Fehler', { status: 500 })
   }
 }
+
