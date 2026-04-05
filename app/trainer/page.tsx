@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
+import { useSearchParams } from 'next/navigation' 
 
 type Thema = 'berufsprofilgebend' | 'fachuebergreifend' | 'wiso'
 
@@ -64,7 +65,10 @@ const themen = {
 }
 
 export default function TrainerPage() {
-  const [aktiv, setAktiv] = useState<Thema>('berufsprofilgebend')
+  const searchParams = useSearchParams()
+  const initialThema = (searchParams.get('thema') as Thema) || 'berufsprofilgebend'
+
+  const [aktiv, setAktiv] = useState<Thema>(initialThema)
   const [chats, setChats] = useState<Record<Thema, Message[]>>({
     berufsprofilgebend: [],
     fachuebergreifend: [],
@@ -189,7 +193,7 @@ export default function TrainerPage() {
                       : t.styles.bubble
                   }`}
                 >
-                  {msg.content}
+                  {msg.content.replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*/g, '')}
                 </div>
               </div>
             ))}
