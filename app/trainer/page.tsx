@@ -44,6 +44,7 @@ function TrainerContent() {
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const chatRef = useRef<HTMLDivElement>(null)
+  const inputRef = useRef<HTMLInputElement>(null)
 
   const t = themen[aktiv]
   const messages = chats[aktiv]
@@ -73,6 +74,7 @@ function TrainerContent() {
       setChats(prev => ({ ...prev, [aktiv]: [{ role: 'assistant', content: 'Fehler beim Laden.' }] }))
     }
     setLoading(false)
+    inputRef.current?.focus()
   }
 
   async function senden() {
@@ -94,6 +96,7 @@ function TrainerContent() {
       setChats(prev => ({ ...prev, [aktiv]: [...updated, { role: 'assistant', content: 'Fehler.' }] }))
     }
     setLoading(false)
+    inputRef.current?.focus()
   }
 
   const clean = (text: string) =>
@@ -170,6 +173,7 @@ function TrainerContent() {
           {/* Input */}
           <div style={{ borderTop: '1px solid #f0f0f0', padding: '12px 16px', display: 'flex', gap: '8px' }}>
             <input
+              ref={inputRef}
               type="text"
               value={input}
               onChange={e => setInput(e.target.value)}
