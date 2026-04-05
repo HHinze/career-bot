@@ -20,7 +20,10 @@ REGELN:
 - Immer nur EINE Frage auf einmal
 - Fragen auf Deutsch
 - Keine langen Erklärungen
-- Starte sofort mit der ersten Frage ohne Begrüßung`,
+- Starte sofort mit der ersten Frage ohne Begrüßung
+- Wähle Themen ZUFÄLLIG aus allen verfügbaren Bereichen
+- Stelle NICHT zweimal hintereinander Fragen zum gleichen Thema
+- Wechsle nach jeder Frage das Themengebiet`,
 
   fachuebergreifend: `Du bist ein IHK-Prüfungstrainer für den Bereich "Fachrichtungsübergreifende Fertigkeiten" (AP2-01) für Kaufleute IT-System-Management.
 
