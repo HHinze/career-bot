@@ -1,7 +1,7 @@
 'use client'
 
-import { useState, useRef, useEffect } from 'react'
-import { useSearchParams } from 'next/navigation' 
+import { useState, useRef, useEffect, Suspense } from 'react'
+import { useSearchParams } from 'next/navigation'
 
 type Thema = 'berufsprofilgebend' | 'fachuebergreifend' | 'wiso'
 
@@ -64,7 +64,7 @@ const themen = {
   },
 }
 
-export default function TrainerPage() {
+function TrainerContent() {
   const searchParams = useSearchParams()
   const initialThema = (searchParams.get('thema') as Thema) || 'berufsprofilgebend'
 
@@ -155,7 +155,6 @@ export default function TrainerPage() {
         <h1 className="text-2xl font-medium text-gray-900 mb-1">Prüfungstrainer</h1>
         <p className="text-gray-500 text-sm mb-6">IHK Abschlussprüfung – Kaufmann/Kauffrau IT-System-Management</p>
 
-        {/* Tabs */}
         <div className="flex gap-2 mb-4">
           {(Object.keys(themen) as Thema[]).map((key) => (
             <button
@@ -172,17 +171,14 @@ export default function TrainerPage() {
           ))}
         </div>
 
-        {/* Chat-Karte */}
         <div className="bg-white rounded-2xl border border-gray-200 overflow-hidden">
 
-          {/* Header */}
           <div className={`${t.styles.header} px-5 py-4`}>
             <div className={`text-xs font-medium ${t.styles.headerSub} mb-0.5`}>{t.sub}</div>
             <div className={`text-base font-medium ${t.styles.headerText}`}>{t.label}</div>
             <div className="text-xs text-gray-400 mt-0.5">{t.themen}</div>
           </div>
 
-          {/* Nachrichten */}
           <div ref={chatRef} className="h-96 overflow-y-auto px-5 py-4 flex flex-col gap-3">
             {messages.map((msg, i) => (
               <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
@@ -210,7 +206,6 @@ export default function TrainerPage() {
             )}
           </div>
 
-          {/* Input */}
           <div className="border-t border-gray-100 px-4 py-3 flex gap-2">
             <input
               type="text"
@@ -232,5 +227,13 @@ export default function TrainerPage() {
         </div>
       </div>
     </main>
+  )
+}
+
+export default function TrainerPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-gray-50" />}>
+      <TrainerContent />
+    </Suspense>
   )
 }
