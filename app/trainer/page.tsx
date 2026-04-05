@@ -183,13 +183,24 @@ function TrainerContent() {
             {messages.map((msg, i) => (
               <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
                 <div
-                  className={`max-w-[80%] px-4 py-2.5 rounded-2xl text-sm leading-relaxed ${
+                  className={`max-w-[85%] px-5 py-3 rounded-2xl text-base leading-relaxed ${
                     msg.role === 'user'
                       ? 'bg-gray-900 text-white'
                       : t.styles.bubble
                   }`}
                 >
-                  {msg.content.replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*/g, '')}
+                  {msg.role === 'assistant'
+                    ? msg.content
+                        .replace(/\*\*(.*?)\*\*/g, '$1')
+                        .replace(/\*/g, '')
+                        .split('---')
+                        .map((teil, i) => (
+                          <p key={i} style={{ marginBottom: i === 0 ? '8px' : '0', fontWeight: i === 0 ? '500' : '400' }}>
+                            {teil.trim()}
+                          </p>
+                        ))
+                    : msg.content
+                  }
                 </div>
               </div>
             ))}
@@ -214,12 +225,12 @@ function TrainerContent() {
               onKeyDown={e => e.key === 'Enter' && senden()}
               placeholder="Deine Antwort..."
               disabled={loading}
-              className="flex-1 text-sm px-4 py-2 rounded-xl border border-gray-200 focus:outline-none focus:border-gray-400 disabled:opacity-50"
+              className="flex-1 text-base px-4 py-2 rounded-xl border border-gray-200 focus:outline-none focus:border-gray-400 disabled:opacity-50"
             />
             <button
               onClick={senden}
               disabled={loading || !input.trim()}
-              className={`px-4 py-2 rounded-xl text-sm font-medium transition-colors disabled:opacity-40 ${t.styles.button}`}
+              className={`px-4 py-2 rounded-xl text-base font-medium transition-colors disabled:opacity-40 ${t.styles.button}`}
             >
               Senden
             </button>
