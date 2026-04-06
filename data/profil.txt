@@ -1,39 +1,237 @@
-1.	Über mich
-Ich bin Harald Hinze und befinde mich aktuell in der Umschulung zum Kaufmann für IT-Systemmanagement. Mich interessiert besonders die Verbindung von kaufmännischem Denken, IT-Prozessen und praktischen digitalen Lösungen. Ich arbeite mich intensiv in Themen wie Berechtigungsmanagement, Serviceprozesse, Automatisierung und K I ein. Dabei ist mir wichtig, nicht nur theoretisch zu lernen, sondern Dinge auch praktisch umzusetzen. Ich suche den Einstieg in ein Umfeld, in dem ich mich weiterentwickeln und mit meiner strukturierten und lösungsorientierten Arbeitsweise echten Mehrwert schaffen kann.
-2.	Aktuelle Situation
-Ich befinde mich aktuell in der Umschulung zum Kaufmann für IT-Systemmanagement und setze mich dabei intensiv mit kaufmännischen und technischen Themen auseinander. Besonders interessieren mich die Schnittstellen zwischen Prozessen, IT-Systemen und praxisnahen Lösungen im Unternehmensalltag. Neben den Lerninhalten arbeite ich auch an eigenen Projekten, um Themen nicht nur theoretisch zu verstehen, sondern direkt anzuwenden. Dabei beschäftige ich mich unter anderem mit Berechtigungsmanagement, Serviceprozessen, Automatisierung und dem sinnvollen Einsatz von K I. Mein Ziel ist es, mich Schritt für Schritt in eine IT-nahe kaufmännische Rolle mit Entwicklungsperspektive hineinzuentwickeln.
-3.	Berufliche Erfahrung
-Vor meiner aktuellen Umschulung habe ich über viele Jahre im Kundenservice, im Callcenter und in der Schulung von Mitarbeitern gearbeitet. Dabei habe ich nicht nur operative Erfahrung im direkten Kundenkontakt gesammelt, sondern auch Mitarbeiter begleitet, geschult und in ihrer Kommunikation unterstützt. Ich war international tätig, unter anderem in Mazedonien, der Türkei und Namibia. Zu meinen Schwerpunkten gehörten Kommunikation, Coaching, Deeskalation und lösungsorientiertes Arbeiten. Zusätzlich habe ich Erfahrung im Outbound-Vertrieb gesammelt und kenne dadurch sowohl serviceorientierte als auch vertriebliche Anforderungen im Berufsalltag.
-4.	Fähigkeiten und Stärken
-Ich arbeite mich schnell in neue Themen ein und gehe Aufgaben strukturiert und lösungsorientiert an. Besonders ausgeprägt sind mein logisches Denken und meine Fähigkeit, Zusammenhänge schnell zu erkennen und daraus praktikable Lösungen zu entwickeln. Durch meine langjährige Erfahrung im Kundenservice und in der Schulung bringe ich außerdem Kommunikationsstärke, Geduld und ein gutes Gespür für unterschiedliche Ansprechpartner mit. Ich kann komplexe Sachverhalte verständlich aufbereiten und behalte auch in anspruchsvollen Situationen den Überblick. Darüber hinaus arbeite ich eigenständig, zuverlässig und mit dem Anspruch, praktische und nachvollziehbare Lösungen zu entwickeln. Besonders wichtig sind mir saubere Prozesse, klare Kommunikation und ein verständlicher Nutzen für die Anwender.
-5.	Projekte
-Projekt 1: Lernplattform für die AP2-Vorbereitung
-Ich habe eine eigene Lernplattform aufgebaut, um Inhalte für die AP2 im IT-Bereich nicht nur zu sammeln, sondern interaktiv aufzubereiten. Dabei habe ich unter anderem Module zu Handelskalkulation, Subnetting, UML, SQL, WiSo und weiteren Prüfungsthemen entwickelt oder vorbereitet. Mein Ziel war es, Lernstoff verständlicher, praktischer und motivierender darzustellen als mit reinem Lesen oder Auswendiglernen. Das Projekt zeigt meine Eigeninitiative, meine Lernbereitschaft und mein Interesse daran, digitale Inhalte nutzbar und strukturiert aufzubereiten.
-6.	Projekt 2: Berechtigungsmanagement und Antragsprozess im Praktikum
-Im Rahmen meines Praktikums beschäftige ich mich mit der strukturierten Vergabe von Zugangsberechtigungen im Unternehmensumfeld. Dabei analysiere ich bestehende Abläufe, identifiziere Schwachstellen und erarbeite Ansätze, wie Berechtigungsanträge standardisierter, nachvollziehbarer und effizienter gestaltet werden können. Im Mittelpunkt stehen für mich Prozessverständnis, klare Rollenverteilung, Nachvollziehbarkeit und die Frage, wie sich fachliche und organisatorische Anforderungen sinnvoll verbinden lassen. Das Projekt passt sehr gut zu meinem Interesse an IT-Prozessen, Struktur und praktischen Lösungen.
-7.	Projekt 3: Eigene digitale Lern- und Praxisprojekte
-Zusätzlich arbeite ich immer wieder an kleineren eigenen Projekten rund um Web, Automatisierung, KI und interaktive Wissensvermittlung. Dabei geht es mir vor allem darum, neue Themen nicht nur theoretisch zu verstehen, sondern direkt in eine praktische Form zu bringen. So verbinde ich Lernen mit Umsetzung und entwickle Schritt für Schritt ein besseres Verständnis für digitale Werkzeuge, Prozesse und nutzerorientierte Lösungen.
-8.	Ziele und Interessen
-Ich möchte mich beruflich in einer IT-nahen kaufmännischen Rolle weiterentwickeln, in der ich Prozesse verstehen, strukturieren und verbessern kann. Besonders interessieren mich Themen wie IT-Service-Management, Berechtigungsmanagement, Automatisierung, digitale Lösungen und der sinnvolle Einsatz von K I. Mich reizt vor allem die Schnittstelle zwischen Fachbereich, Organisation und technischer Umsetzung. Ich suche ein Umfeld, in dem ich weiter lernen, Verantwortung übernehmen und mich Schritt für Schritt fachlich ausbauen kann.
-9.	Häufige Fragen an den Bot
+Wissensbasis für den Chatbot über Harald Hinze
+1. Kurzprofil
+
+Ich bin Harald Hinze und befinde mich aktuell in der Umschulung zum Kaufmann für IT-Systemmanagement. Mich interessiert besonders die Verbindung von kaufmännischem Denken, IT-Prozessen und praktischen digitalen Lösungen. Ich arbeite mich intensiv in Themen wie Berechtigungsmanagement, Serviceprozesse, Automatisierung, Active Directory, Prozessgestaltung und K I ein. Dabei ist mir wichtig, nicht nur theoretisch zu lernen, sondern Inhalte auch praktisch umzusetzen.
+
+Ich suche den Einstieg in ein Umfeld, in dem ich mich weiterentwickeln und mit einer strukturierten, lösungsorientierten Arbeitsweise echten Mehrwert schaffen kann.
+
+2. Aktuelle Situation
+
+Ich absolviere derzeit die Umschulung zum Kaufmann für IT-Systemmanagement und setze mich dabei intensiv mit kaufmännischen und technischen Themen auseinander. Besonders interessieren mich die Schnittstellen zwischen Prozessen, IT-Systemen und praxisnahen Lösungen im Unternehmensalltag.
+
+Neben den Lerninhalten arbeite ich auch an eigenen Projekten, um Themen nicht nur theoretisch zu verstehen, sondern direkt anzuwenden. Dabei beschäftige ich mich unter anderem mit Berechtigungsmanagement, Serviceprozessen, Automatisierung, Webprojekten, Active Directory und dem sinnvollen Einsatz von K I.
+
+Mein Ziel ist es, mich Schritt für Schritt in eine IT-nahe kaufmännische Rolle mit Entwicklungsperspektive hineinzuentwickeln. Ich suche Aufgaben, bei denen ich Prozesse verstehen, strukturieren, verbessern und verständlich vermitteln kann.
+
+Der voraussichtliche Abschluss meiner Umschulung ist im Juni 2026. Ich suche im Raum Karlsruhe eine Vollzeitposition ab August 2026.
+
+3. Beruflicher Hintergrund
+
+Vor meiner aktuellen Qualifizierung habe ich über viele Jahre im Kundenservice, im Callcenter und in der Schulung von Mitarbeitern gearbeitet. Dabei habe ich nicht nur operative Erfahrung im direkten Kundenkontakt gesammelt, sondern auch Mitarbeiter begleitet, geschult und in ihrer Kommunikation unterstützt.
+
+Ich war international tätig, unter anderem in Mazedonien, der Türkei und Namibia. Zu meinen Schwerpunkten gehörten Kommunikation, Coaching, Deeskalation und lösungsorientiertes Arbeiten. Zusätzlich habe ich Erfahrung im Outbound-Vertrieb gesammelt und kenne dadurch sowohl serviceorientierte als auch vertriebliche Anforderungen im Berufsalltag.
+
+Diese Erfahrung prägt auch heute meine Arbeitsweise: Ich achte auf Verständlichkeit, auf praktikable Lösungen und darauf, dass Prozesse nicht nur auf dem Papier gut aussehen, sondern für die beteiligten Menschen tatsächlich funktionieren.
+
+4. Was Harald fachlich auszeichnet
+
+Ich arbeite mich schnell in neue Themen ein und gehe Aufgaben strukturiert und lösungsorientiert an. Besonders ausgeprägt sind mein logisches Denken und meine Fähigkeit, Zusammenhänge schnell zu erkennen und daraus praktikable Lösungen abzuleiten.
+
+Durch meine langjährige Erfahrung im Kundenservice und in der Schulung bringe ich außerdem Kommunikationsstärke, Geduld und ein gutes Gespür für unterschiedliche Ansprechpartner mit. Ich kann komplexe Sachverhalte verständlich aufbereiten und behalte auch in anspruchsvollen Situationen den Überblick.
+
+Darüber hinaus arbeite ich eigenständig, zuverlässig und mit dem Anspruch, praktische und nachvollziehbare Lösungen zu entwickeln. Besonders wichtig sind mir saubere Prozesse, klare Kommunikation und ein verständlicher Nutzen für die Anwender.
+
+5. Arbeitsweise
+
+Harald arbeitet sich gern in neue Themen ein, indem er sie nicht nur liest, sondern direkt in eine praktische Form bringt. Er versucht, Inhalte zu strukturieren, greifbar zu machen und in eine Lösung zu überführen, die für andere verständlich und nutzbar ist.
+
+Typisch für seine Arbeitsweise sind:
+
+strukturierte Analyse statt schneller Bauchentscheidungen
+Interesse an klaren Prozessen und nachvollziehbaren Abläufen
+der Versuch, fachliche, organisatorische und praktische Sichtweisen zusammenzubringen
+ein hoher Anspruch an Verständlichkeit und Nutzbarkeit
+die Bereitschaft, sich neue Themen eigenständig zu erschließen
+6. Warum der Wechsel in Richtung IT-Systemmanagement
+
+Die Umschulung zum Kaufmann für IT-Systemmanagement passt gut zu Haralds Stärken und Interessen. Er interessiert sich für die Verbindung aus Organisation, Kommunikation, Prozessen und digitalen Lösungen. Besonders reizt ihn nicht nur die Technik selbst, sondern die Frage, wie technische und organisatorische Anforderungen sinnvoll zusammengebracht werden können.
+
+Sein bisheriger beruflicher Hintergrund im Kundenservice, in der Kommunikation und in der Schulung ergänzt diesen Weg gut: Er bringt Erfahrung im Umgang mit Menschen, im Erklären, im Strukturieren und im lösungsorientierten Arbeiten mit und entwickelt diese Kompetenzen nun in einem IT-nahen Umfeld weiter.
+
+7. Projekt 1: Lernplattform für die AP2-Vorbereitung
+
+Harald hat eine eigene Lernplattform aufgebaut, um Inhalte für die AP2 im IT-Bereich nicht nur zu sammeln, sondern interaktiv aufzubereiten. Dabei hat er unter anderem Module zu Handelskalkulation, Subnetting, UML, SQL, WiSo und weiteren Prüfungsthemen entwickelt oder vorbereitet.
+
+Ziel des Projekts war es, Lernstoff verständlicher, praktischer und motivierender darzustellen als durch reines Lesen oder Auswendiglernen. Das Projekt zeigt Eigeninitiative, Lernbereitschaft und das Interesse daran, digitale Inhalte nutzbar und strukturiert aufzubereiten.
+
+Die Lernplattform ist unter haraldhinze.de/startseite.html erreichbar.
+
+Gleichzeitig verdeutlicht das Projekt auch Haralds Arbeitsweise: Er versucht, Wissen nicht nur aufzunehmen, sondern in eine Form zu bringen, die praktisch anwendbar und für andere nachvollziehbar ist.
+
+8. Projekt 2: Berechtigungsmanagement und Antragsprozess im Praktikum
+
+Im Rahmen seines Praktikums beschäftigt sich Harald mit der strukturierten Vergabe von Zugangsberechtigungen im Unternehmensumfeld. Dabei analysiert er bestehende Abläufe, identifiziert Schwachstellen und erarbeitet Ansätze, wie Berechtigungsanträge standardisierter, nachvollziehbarer und effizienter gestaltet werden können.
+
+Im Mittelpunkt stehen Prozessverständnis, klare Rollenverteilung, Nachvollziehbarkeit und die Frage, wie sich fachliche und organisatorische Anforderungen sinnvoll verbinden lassen. Das Projekt passt sehr gut zu seinem Interesse an IT-Prozessen, Struktur und praktischen Lösungen.
+
+Besonders relevant ist für Harald dabei nicht nur die technische Seite, sondern auch die organisatorische Qualität eines Prozesses: Wer beantragt etwas, wer genehmigt, wie wird nachvollziehbar dokumentiert und wie lässt sich ein Ablauf klarer und effizienter gestalten.
+
+9. Projekt 3: Eigene digitale Lern- und Praxisprojekte
+
+Zusätzlich arbeitet Harald immer wieder an kleineren eigenen Projekten rund um Web, Automatisierung, K I und interaktive Wissensvermittlung. Dabei geht es ihm vor allem darum, neue Themen nicht nur theoretisch zu verstehen, sondern direkt in eine praktische Form zu bringen.
+
+So verbindet er Lernen mit Umsetzung und entwickelt Schritt für Schritt ein besseres Verständnis für digitale Werkzeuge, Prozesse und nutzerorientierte Lösungen. Diese Projekte zeigen vor allem Neugier, Eigeninitiative und den Wunsch, Themen aktiv auszuprobieren statt sie nur abstrakt zu betrachten.
+
+10. Projekt 4: Chat-Widget / KI-Interview auf der eigenen Website
+
+Harald hat auf seiner Website ein Chat-Widget aufgebaut, das Besuchern einen interaktiven Zugang zu seinem Profil ermöglicht. Statt nur statische Informationen bereitzustellen, verfolgt das Projekt den Ansatz, berufliche Stationen, Interessen, Projekte und Stärken in gesprächsorientierter Form zugänglich zu machen.
+
+Das Projekt verbindet mehrere Themen, die Harald besonders interessieren: nutzerorientierte digitale Lösungen, verständliche Informationsaufbereitung, praktische Umsetzung und der sinnvolle Einsatz von K I. Gleichzeitig zeigt es seine Bereitschaft, neue Ideen nicht nur theoretisch zu denken, sondern direkt als funktionierende Lösung umzusetzen.
+
+Das Chat-Widget ist Teil seines Ansatzes, Informationen nicht nur bereitzustellen, sondern sie für Besucher unmittelbar erlebbar und zugänglich zu machen.
+
+11. Praktische Vertiefung im Umfeld von Berechtigungen und Active Directory
+
+Im Zusammenhang mit seinem Praktikum und seinem Interesse an Berechtigungsmanagement hat sich Harald auch praktisch mit Themen rund um Active Directory und Berechtigungsstrukturen beschäftigt. Dabei geht es ihm vor allem darum, technische Grundlagen besser zu verstehen und sie mit organisatorischen Fragen wie Rollen, Freigaben, Nachvollziehbarkeit und sauberer Prozessgestaltung zu verbinden.
+
+Der Schwerpunkt liegt dabei nicht auf Selbstdarstellung als Spezialist, sondern auf dem erkennbaren Bemühen, sich Themen eigenständig und praxisnah zu erschließen. Gerade die Verbindung von fachlichen Anforderungen, Berechtigungslogik und strukturierten Prozessen interessiert ihn besonders.
+
+12. Zertifikate
+
+Harald verfügt über die Zertifizierung Microsoft Certified: Security, Compliance, and Identity Fundamentals. Diese Zertifizierung passt gut zu seinem Interesse an Identitäten, Berechtigungen, Governance und strukturierten IT-Prozessen.
+
+Details:
+
+Microsoft zertifiziert: Grundlagen zu Sicherheit, Compliance und Identität
+erworben am 22. Februar 2026
+Zertifizierungsnummer: 2F6OF5-F453EA
+Anmeldeinformations-ID: BB65A0E77FEB25AD
+
+Zusätzlich verfügt Harald über die Zertifizierung EXIN Kanban Foundation. Das unterstreicht sein Interesse an strukturiertem Arbeiten, Prozessverständnis und der kontinuierlichen Verbesserung von Abläufen.
+
+Details:
+
+EXIN Kanban Foundation
+ausgestellt am 04.06.2025
+Zertifikatsnummer: 6637393.20896208
+13. Fachliche Interessen
+
+Harald interessiert sich besonders für:
+
+IT-nahe kaufmännische Aufgaben
+Serviceprozesse und deren Strukturierung
+Berechtigungsmanagement
+Active Directory im Zusammenhang mit Rollen und Berechtigungen
+Automatisierung
+digitale Lösungen im Unternehmensalltag
+nutzerorientierte Prozessgestaltung
+die Verbindung von Organisation, Fachbereich und technischer Umsetzung
+den sinnvollen Einsatz von K I
+
+Wichtig ist ihm dabei vor allem, dass Lösungen nicht nur technisch denkbar, sondern auch praktisch brauchbar und organisatorisch nachvollziehbar sind.
+
+14. Welche Art von Rolle Harald sucht
+
+Harald sucht eine IT-nahe kaufmännische Rolle mit Entwicklungsperspektive. Besonders interessant sind für ihn Aufgaben, bei denen er Prozesse verstehen, strukturieren, verbessern und mitgestalten kann.
+
+Er passt besonders gut zu Rollen oder Aufgabenfeldern, in denen es um die Verbindung von Kommunikation, Organisation, digitalen Abläufen und praktischer Umsetzung geht. Wichtig ist ihm ein Umfeld, in dem er weiter lernen, Verantwortung übernehmen und sich Schritt für Schritt fachlich ausbauen kann.
+
+Er sucht eine Vollzeitposition ab August 2026 im Raum Karlsruhe.
+
+15. Wofür Harald stehen möchte
+
+Harald möchte als jemand wahrgenommen werden, der:
+
+sich engagiert in neue Themen einarbeitet
+nicht nur theoretisch denkt, sondern praktisch umsetzt
+Prozesse verständlich und nutzbar machen will
+kommunikativ stark ist und unterschiedliche Perspektiven zusammenbringen kann
+digitale Themen strukturiert und lösungsorientiert angeht
+16. Warum Harald für eine IT-nahe kaufmännische Position interessant ist
+
+Harald verbindet mehrere Dinge, die gut zusammenpassen: viel Erfahrung im Umgang mit Menschen, Kommunikation und Schulung auf der einen Seite sowie aktuelles Lernen und praktische Beschäftigung mit IT-nahen Themen auf der anderen.
+
+Er bringt kein rein technisches Profil mit, sondern eine Kombination aus Kommunikationsstärke, Prozessinteresse, Lernbereitschaft und Praxisnähe. Gerade für Rollen an der Schnittstelle zwischen Fachbereich, Organisation und IT kann das ein Vorteil sein.
+
+17. Typische Antworten auf die Frage „Was unterscheidet Harald?“
+
+Was Harald besonders auszeichnet, ist die Verbindung aus langjähriger Kommunikations- und Schulungserfahrung mit einer aktuellen, sehr praxisnahen Auseinandersetzung mit IT-Themen. Er denkt nicht nur in Aufgaben, sondern in Abläufen, Verständlichkeit und Nutzbarkeit.
+
+Außerdem zeigt sich in seinen Projekten, dass er Themen nicht einfach nur konsumiert, sondern aktiv aufbereitet, ausprobiert und in greifbare Formen überführt.
+
+18. Häufige Fragen an den Bot
+
 Wer ist Harald Hinze?
 Was macht Harald aktuell?
-In welcher Ausbildung oder Umschulung befindet er sich?
+In welcher Umschulung befindet er sich?
+Wann schließt Harald seine Umschulung ab?
+Ab wann ist Harald für eine Vollzeitstelle verfügbar?
+In welcher Region sucht Harald eine Position?
 Welche beruflichen Erfahrungen bringt er mit?
 Welche Stärken und Fähigkeiten zeichnen ihn aus?
 An welchen Projekten arbeitet er?
 Wofür interessiert er sich fachlich besonders?
 Welche Art von Rolle sucht er?
 Warum passt Harald zu einer IT-nahen kaufmännischen Position?
+Wie verbindet Harald seine frühere Berufserfahrung mit IT-Themen?
+Warum hat Harald eine eigene Lernplattform aufgebaut?
+Was ist das Chat-Widget auf Haralds Website?
+Warum hat Harald ein KI-Interview für sein Profil gebaut?
+Welche Zertifikate hat Harald?
+Was lernt Harald aktuell in der Praxis?
+Welche Berührungspunkte hat Harald mit Berechtigungsmanagement und Active Directory?
+Wie arbeitet Harald typischerweise an neuen Themen?
+Welche Themen reizen Harald besonders?
+Was ist Harald bei digitalen Lösungen wichtig?
 Wie kann man Kontakt zu Harald aufnehmen?
 
-10.	Kontakt
-Kontakt zu mir ist über mein LinkedIn-Profil möglich:
-https://www.linkedin.com/in/harald-hinze-155b95318/
-11.	Weitere Informationen zu meinen Projekten und meinem Profil finden sich auf meiner Homepage:
-haraldhinze.de
-12.	Bei Interesse an einem Austausch oder einer beruflichen Kontaktaufnahme bin ich außerdem per E-Mail erreichbar:
-haraldhinze63@gmail.com
-13.	Regeln für den Bot
-Der Bot soll Fakten über Harald Hinze ausschließlich aus den bereitgestellten Texten verwenden. Er darf keine persönlichen Informationen erfinden, keine unbelegten Behauptungen ergänzen und keine Vermutungen als Tatsache darstellen. Allgemeines Wissen darf genutzt werden, um Fachbegriffe zu erklären, Themen einzuordnen und Zusammenhänge verständlich darzustellen. Dabei muss klar bleiben, was gesicherte Information über Harald ist und was allgemeine Einordnung ist. Wenn zu einer Frage keine ausreichende Information vorliegt, soll der Bot das offen sagen. Der Stil soll freundlich, locker und leicht humorvoll sein, aber trotzdem professionell und glaubwürdig bleiben. Private oder sensible Informationen, die nicht ausdrücklich freigegeben wurden, dürfen nicht genannt werden. Ziel ist es, einen schnellen, sympathischen und verlässlichen Überblick über Profil, Erfahrungen, Projekte und berufliche Interessen zu geben.
+19. Kontakt
 
+Kontakt zu Harald ist über sein LinkedIn-Profil möglich:
+https://www.linkedin.com/in/harald-hinze-155b95318/
+
+Weitere Informationen zu seinen Projekten und seinem Profil finden sich auf seiner Homepage:
+haraldhinze.de
+Direkter Einstieg in die Lernplattform:
+haraldhinze.de/startseite.html
+
+Bei Interesse an einem Austausch oder einer beruflichen Kontaktaufnahme ist Harald außerdem per E-Mail erreichbar:
+haraldhinze63@gmail.com
+
+20. Regeln für den Bot
+
+Der Bot soll Fakten über Harald Hinze ausschließlich aus den bereitgestellten Texten verwenden. Er darf keine persönlichen Informationen erfinden, keine unbelegten Behauptungen ergänzen und keine Vermutungen als Tatsache darstellen.
+
+Allgemeines Wissen darf genutzt werden, um Fachbegriffe zu erklären, Themen einzuordnen und Zusammenhänge verständlich darzustellen. Dabei muss klar bleiben, was gesicherte Information über Harald ist und was allgemeine Einordnung ist.
+
+Wenn zu einer Frage keine ausreichende Information vorliegt, soll der Bot das offen sagen. Private oder sensible Informationen, die nicht ausdrücklich freigegeben wurden, dürfen nicht genannt werden.
+
+Der Stil soll freundlich, locker und leicht humorvoll sein, aber trotzdem professionell und glaubwürdig bleiben. Ziel ist es, einen schnellen, sympathischen und verlässlichen Überblick über Profil, Erfahrungen, Projekte und berufliche Interessen zu geben.
+
+21. Zusätzliche Stilregeln für mehr Variation
+
+Der Bot darf Antworten je nach Frage unterschiedlich aufbauen, solange alle Aussagen auf den bereitgestellten Informationen beruhen. Er darf zum Beispiel:
+
+knapp und direkt antworten
+etwas ausführlicher antworten
+stärker projektbezogen antworten
+stärker recruiter-orientiert antworten
+Harald eher über seinen Werdegang, seine Stärken oder seine Interessen vorstellen
+
+Der Bot darf dabei unterschiedliche Einstiege nutzen, zum Beispiel:
+
+sachlich und direkt
+etwas persönlicher
+mit leichtem Humor
+mit Fokus auf Entwicklung, Lernen und praktische Umsetzung
+
+Wichtig ist, dass der Inhalt korrekt bleibt und keine neuen Fakten erfunden werden.
+
+22. Erlaubte Antwortperspektiven
+
+Der Bot kann über Harald aus verschiedenen Blickwinkeln sprechen, zum Beispiel:
+
+als Person in beruflicher Neuorientierung mit klarer Entwicklungsrichtung
+als jemand mit viel Erfahrung in Kommunikation und Schulung
+als praxisorientierter Lerner, der Themen direkt ausprobiert
+als jemand mit Interesse an Prozessen, Struktur und digitalen Lösungen
+als Bewerber für IT-nahe kaufmännische Rollen an der Schnittstelle zwischen Organisation und IT
+23. Was der Bot nicht tun soll
+
+Der Bot soll nicht:
+
+so tun, als hätte Harald bereits Erfahrungen gemacht, die in den Texten nicht genannt sind
+konkrete Tools, Arbeitgeber, Zertifikate oder Fachkenntnisse behaupten, wenn sie nicht ausdrücklich in der Wissensbasis stehen
+private Informationen preisgeben, die nicht freigegeben wurden
+übertrieben werblich, künstlich oder unglaubwürdig formulieren
+aus Interessen automatisch tiefgehende Praxiserfahrung ableiten

@@ -12,7 +12,7 @@ export async function getRelevantContext(query: string, thema?: string): Promise
     q = q.eq('thema', thema)
   }
 
-  const { data, error } = await q.limit(5)
+  const { data, error } = await q.limit(40)
 
   if (error || !data || data.length === 0) {
     return ''
