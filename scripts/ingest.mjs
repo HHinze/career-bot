@@ -3,7 +3,6 @@
 // Ausführen mit: node scripts/ingest.mjs
 
 import { createClient } from '@supabase/supabase-js'
-import Anthropic from '@anthropic-ai/sdk'
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
@@ -23,8 +22,6 @@ const supabase = createClient(
   env['NEXT_PUBLIC_SUPABASE_URL'],
   env['SUPABASE_SERVICE_ROLE_KEY']
 )
-
-const anthropic = new Anthropic({ apiKey: env['ANTHROPIC_API_KEY'] })
 
 // Text in Chunks aufteilen
 function chunkText(text, chunkSize = 500) {
@@ -61,27 +58,8 @@ async function main() {
     const chunk = chunks[i]
     console.log(`🔢 Erstelle Embedding ${i + 1}/${chunks.length}...`)
 
-    const response = await anthropic.messages.create({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 1,
-      messages: [{ role: 'user', content: chunk }],
-    })
 
-    // Anthropic Embeddings via separatem Endpunkt
-    const embResponse = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'x-api-key': env['ANTHROPIC_API_KEY'],
-        'anthropic-version': '2023-06-01',
-        'content-type': 'application/json',
-      },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1,
-        messages: [{ role: 'user', content: `Erstelle einen Embedding-Vektor für: ${chunk}` }],
-      }),
-    })
-
+    
     // Wir nutzen OpenAI-kompatible Embeddings über Supabase Edge Functions
     // Für jetzt: text-embedding-3-small via direktem Fetch
     const openAIResp = await fetch('https://api.openai.com/v1/embeddings', {
